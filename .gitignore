@@ -1,0 +1,9 @@
+# ignore log files
+*.log
+
+# ignore config files
+*.config
+
+#other files
+.DS_Store
+secrets.txt
