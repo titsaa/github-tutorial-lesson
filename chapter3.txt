@@ -1,1 +1,6 @@
 Today I become a certified Linux admiinistrator. 
+
+favorit movies:
+- star wars
+- master of the universe
+- marvel cinematic universe
